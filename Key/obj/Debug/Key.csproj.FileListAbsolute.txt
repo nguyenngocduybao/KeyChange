@@ -1,0 +1,9 @@
+D:\Mine\5. Study\Projects Test\C#\Key\Key\bin\Debug\Key.exe.config
+D:\Mine\5. Study\Projects Test\C#\Key\Key\obj\Debug\Key.csprojResolveAssemblyReference.cache
+D:\Mine\5. Study\Projects Test\C#\Key\Key\obj\Debug\Key.Form1.resources
+D:\Mine\5. Study\Projects Test\C#\Key\Key\obj\Debug\Key.Properties.Resources.resources
+D:\Mine\5. Study\Projects Test\C#\Key\Key\obj\Debug\Key.csproj.GenerateResource.Cache
+D:\Mine\5. Study\Projects Test\C#\Key\Key\bin\Debug\Key.exe
+D:\Mine\5. Study\Projects Test\C#\Key\Key\bin\Debug\Key.pdb
+D:\Mine\5. Study\Projects Test\C#\Key\Key\obj\Debug\Key.exe
+D:\Mine\5. Study\Projects Test\C#\Key\Key\obj\Debug\Key.pdb
